@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #e8e8e8;
+}
+button {
+  cursor: pointer;
+}
+.no-padding {
+  padding: 0
+}
+.padding-5 {
+  padding: 5px;
+}
+.text-center {
+  text-align: center;
+}
+.push {
+  padding-top: 24px;
+}
+.border {
+  border: 1px solid black;
+}

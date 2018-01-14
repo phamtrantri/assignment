@@ -1,0 +1,8 @@
+.news-container {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.news-snippet {
+  font-size: 16px;
+  color: #666;
+}

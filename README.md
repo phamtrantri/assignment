@@ -1,9 +1,9 @@
 ## App introduction
 
-Testability: Unit and UI testing with Jest and Enzyme.
-Framework: React.js.
-Architecture: Redux.
-3rd Libraries: Boostrap v4, redux-promise, react-js-pagination, react-modal, react-router.
+Testability: Unit and UI testing with Jest and Enzyme. <br>
+Framework: React.js. <br>
+Architecture: Redux. <br>
+3rd Libraries: Boostrap v4, redux-promise, react-js-pagination, react-modal, react-router. <br>
 
 ## Live demo URL
 
